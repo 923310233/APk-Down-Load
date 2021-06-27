@@ -84,14 +84,15 @@
 ### 现有的1000个APP列表
 |语法|效果|
 |----|-----|
-|`[当前1004个app列表](/example/profile.md)`|[当前1004个app列表](./app_list.csv)|
+|`[当前1004个app列表](app_list.csv)`|[当前1004个app列表](./app_list.csv)|
 
-### 链接外部URL
+
+### 根据包名下载APK
 
 |#|语法|效果|
 |---|----|-----|
-|1|`[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")`|[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")|
-|2|`[我的知乎][zhihu] `|[我的知乎][zhihu] |
+|1|`[apkcombo](https://apkcombo.com/zh/apk-downloader/)`|[网站1](https://apkcombo.com/zh/apk-downloader/)|
+|2|`[evozi][https://apps.evozi.com/apk-downloader/] `|[网站2][https://apps.evozi.com/apk-downloader/] |
 
 
 ### Built With
