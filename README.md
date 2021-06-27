@@ -92,7 +92,7 @@
 |#|语法|效果|
 |---|----|-----|
 |1|`[apkcombo](https://apkcombo.com/zh/apk-downloader/)`|[网站1](https://apkcombo.com/zh/apk-downloader/)|
-|2|`[evozi][https://apps.evozi.com/apk-downloader/] `|[网站2][https://apps.evozi.com/apk-downloader/] |
+|2|`[evozi](https://apps.evozi.com/apk-downloader/)`|[网站2](https://apps.evozi.com/apk-downloader/)|
 
 
 ### Built With
