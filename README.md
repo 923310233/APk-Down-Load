@@ -87,6 +87,12 @@
 |`[当前1004个app列表](app_list.csv)`|[当前1004个app列表](./app_list.csv)|
 
 
+### 各地区Google Play热门APP的列表: 持续更新
+|语法|效果|
+|----|-----|
+|`[各地区Google Play热门APP的列表](https://github.com/james-atkins/app-rankings)`|[各地区Google Play热门APP的列表](https://github.com/james-atkins/app-rankings)|
+
+
 ### 根据包名下载APK
 
 |#|语法|效果|
