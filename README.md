@@ -81,9 +81,9 @@
 ## APP 下载
 
 ### 现有的1000个APP列表
-
+|#|-|-|
 |----|-----|
-|`[apk list](/example/profile.md)`|[我的简介](/example/profile.md)|
+|`[apk list](./app_list.csv)`|[当前1004个app列表](./app_list.csv)|
 
 ### 链接外部URL
 
