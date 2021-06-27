@@ -128,5 +128,10 @@
    ```sh
    python3 app.py
    ```
-
+## 将下载下来的APP重命名为 包名.apk的形式
+1. 修改rename.py中的APK文件夹路径，已经重命名后output的路径
+2. 运行
+```sh
+   python3 rename.py
+   ```
 
