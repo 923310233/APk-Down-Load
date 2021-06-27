@@ -80,10 +80,11 @@
 <!-- ABOUT THE PROJECT -->
 ## APP 下载
 
+
 ### 现有的1000个APP列表
-|#|-|-|
+|语法|效果|
 |----|-----|
-|`[apk list](./app_list.csv)`|[当前1004个app列表](./app_list.csv)|
+|`[当前1004个app列表](/example/profile.md)`|[当前1004个app列表](./app_list.csv)|
 
 ### 链接外部URL
 
