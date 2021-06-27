@@ -94,7 +94,7 @@
 
 ### 其它获取APK的网站
 |语法|效果|
-|----|-----|
+|----|-----|-----|
 |1|`[apkmonk](https://www.apkmonk.com/)`|[网站1](https://www.apkmonk.com/)|
 |2|`[apk-dl](https://apk-dl.com/)`|[网站2](https://apk-dl.com/)|
 |3|`[apkcombo](https://apkcombo.com/zh/)`|[网站3](https://apkcombo.com/zh/)|
