@@ -94,6 +94,12 @@
 |1|`[apkcombo](https://apkcombo.com/zh/apk-downloader/)`|[网站1](https://apkcombo.com/zh/apk-downloader/)|
 |2|`[evozi](https://apps.evozi.com/apk-downloader/)`|[网站2](https://apps.evozi.com/apk-downloader/)|
 
+### 根据包名下载APK
+|#|语法|效果|
+|---|---|----
+|1|`![google play获得APK的包名]()`|![Google Play](./images/apkName.png)
+|2|`![][code-past]`|![][code-past]
+
 
 ### Built With
 
