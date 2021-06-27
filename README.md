@@ -97,9 +97,9 @@
 ### 根据包名下载APK
 |#|语法|效果|
 |---|---|----
-|1|`![google play获得APK的包名]()`|![Google Play](./images/apkName.png)
-|2|`![][code-past]`|![][code-past]
-
+|1|`[google play获得APK的包名]`|![Google Play](./images/apkName.png)
+|2|`apkcombo下载`|![](./images/download2.png)
+|3|`evozi下载`|![](./images/download.png)
 
 ### Built With
 
